@@ -1,2 +1,2 @@
-# jaysahu.github.io
+# jaysahu-ai.github.io
 First Github repo for pages
